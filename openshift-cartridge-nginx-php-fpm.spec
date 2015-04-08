@@ -11,7 +11,7 @@ URL:           https://getupcloud.com
 Source0:       https://github.com/getupcloud/origin-server/%{name}/%{name}-%{version}.tar.gz
 Requires:      rubygem(openshift-origin-node)
 Requires:      php >= 5.3.2
-Requires:      php < 5.4
+Requires:      php < 5.5
 Requires:      httpd < 2.4
 Requires:      php
 Requires:      php-devel
